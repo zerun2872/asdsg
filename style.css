@@ -1,0 +1,23 @@
+/*
+p { /*선택자
+    color:rgb(18, 123, 141, 0.50);
+    font-size: 5rem; /*html 기본 폰트 사이즈의 5배
+    background-color: rgb(152, 235, 24, 0.80); /*패딩 부분을 색칠함
+}*/
+
+button:hover {
+    border: solid cyan 5rem; /*boder 내 설정들 순서는 상관없음!*/
+    width: 10rem;
+    height: 10rem;
+}
+
+div p /*띄어쓰기 = div 태그 안에 있는 p태그를 선택한다*/
+{
+    color:rgb(34, 53, 141, 0.50);
+    font-size: 5rem;    
+    background-color: rgb(42, 25, 4, 0.50);
+}
+#Wee
+{
+    color: red;
+}

@@ -1,0 +1,25 @@
+#Sarv
+{
+    text-align: center;
+    color: cyan;
+    font-size: 3rem;
+    margin: 1rem 2rem;
+}
+.me
+{
+    border: solid lightcyan 0.1rem;
+    font-size: 1.5rem;
+    background-color: aquamarine;
+    text-align: left;
+    display:inline-block;
+    margin: 2rem;
+    box-shadow: gray 0.2rem 0.2rem 0.2rem;
+}
+#ButtonCss
+{
+    text-align: center;
+}
+button:hover
+{
+    background-color: lightseagreen;
+}
